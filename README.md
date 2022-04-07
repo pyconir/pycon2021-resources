@@ -14,6 +14,6 @@ This Repo contains presentations and slides of PyCon Iran 2021. Also, all PyCon 
 
 <br/>
 
-Joint our community in Discord:
+Join our community in Discord:
 
 <a href="https://discord.gg/Z48FsGfhmv"><img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" alt="discord-Logo" width="35"></img></a>
