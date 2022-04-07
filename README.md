@@ -2,30 +2,18 @@
 <img src="https://avatars.githubusercontent.com/u/93388607?s=200&v=4" alt="PyCon-Iran-Logo" width="100"></image>
 # PyCon Iran 2021
 
-اسلاید ارایه‌ها، منابع و کدهای ارایه شده توسط سخنرانان کنفرانس پایکان 1400 در این مخزن در دسترس است.
 
-This Repo contains presentations and slides of pycon 2021
+نمابرگ (اسلاید) ارایه‌ها، منابع و کدهای ارایه شده توسط سخنرانان کنفرانس پایکان ۱۴۰۰ در این مخزن در دسترس است. همچنین، تمامی ویدیوهای ضبط شده‌ی کنفرانس امسال را از طریق <a href="https://www.youtube.com/playlist?list=PLS_yN8E1mjBM9jJp511MeuE_acvi7Li2u">این پلی‌لیست در یوتیوب</a> ببینید. 
+<br/>
 
-Website: https://ir.pycon.org/
-
-Email: team@ir.pycon.org
+https://ir.pycon.org/2021
 <br/>
 <br/>
+
+This Repo contains presentations and slides of PyCon Iran 2021. Also, all PyCon Iran 2021 edited videos are now up on our <a href="https://www.youtube.com/channel/UC4h9WMROnH__sbdzOBW6l_w">YouTube channel</a>, you can watch them via this <a href="https://www.youtube.com/playlist?list=PLS_yN8E1mjBM9jJp511MeuE_acvi7Li2u">playlist</a>.
+
 <br/>
-<a href="https://www.youtube.com/channel/UC4h9WMROnH__sbdzOBW6l_w/featured"><img src="https://seeklogo.com/images/Y/youtube-2017-icon-logo-D1FE045118-seeklogo.com.png" alt="youtube-Logo" width="35"></img></a>
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://twitter.com/pyconir"><img src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" alt="twitter-Logo" width="35"></img></a>
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://github.com/pyconir"><img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" alt="github-Logo" width="35"></img></a>
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://instagram.com/pyconir/"><img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="instagram-Logo" width="35"></img></a>
-&nbsp;
-&nbsp;
-&nbsp;
+
+Joint our community in Discord:
+
 <a href="https://discord.gg/Z48FsGfhmv"><img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" alt="discord-Logo" width="35"></img></a>
